@@ -103,7 +103,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 
 
-<hr>
+
 <h3>Sample Input</h3>
 <hr>
 8 9 <BR>
